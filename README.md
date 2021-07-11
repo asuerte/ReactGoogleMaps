@@ -8,7 +8,7 @@
     ```
     git clone https://github.com/asuerte/ReactGoogleMaps.git
     ```
-2. Open both GoogleMaps-Frontend and GoogleMaps-Backend in seperate source-code editors of your choice.
+2. Open both GoogleMaps-Frontend and GoogleMaps-Backend in separate source-code editors of your choice.
 3. Install project dependencies for both GoogleMaps-Frontend and GoogleMaps-Backend
     ```
     npm install
